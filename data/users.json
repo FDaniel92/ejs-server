@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Ifj. Lengyel Tibor",
+        "role": "Ügyvezető igazgató",
+        "subRole": "cégvezetés",
+        "userImg": "ifj_lengyel"
+    },
+    {
+        "id": 2,
+        "name": "Horváth Péter",
+        "role": "Kommunikációs igazgató",
+        "subRole": "cégvezetés",
+        "userImg": "horvath_peter"
+    },
+    {
+        "id": 3,
+        "name": "e-Jogsegéd",
+        "role": "hivatalos",
+        "subRole": "cégvezetés",
+        "userImg": "ejogseged"
+    }
+]

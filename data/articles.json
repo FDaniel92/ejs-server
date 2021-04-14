@@ -1,0 +1,214 @@
+[
+    {
+        "headerContent": [
+            {
+                "type": "text",
+                "writerName": "e-Jogsegéd"
+            },
+            {
+                "type": "image",
+                "writerImage": "ejogseged"
+            },
+            {
+                "type": "text",
+                "role": "hivatalos"
+            },
+            {
+                "type": "text",
+                "subRole": "cégvezetés"
+            }
+        ],
+        "date": "2021-04-09",
+        "blogTitle": "robert-tesztel",
+        "blogSubTitle": "sadfasd",
+        "blogContents": [
+            {
+                "type": "text",
+                "body": "asdasdasd"
+            },
+            {
+                "type": "text",
+                "body": "asd"
+            },
+            {
+                "type": "image",
+                "imageName": "tesztkep.jpg",
+                "imageAlt": "Ez a hero kép",
+                "isCarousel": false
+            }
+        ],
+        "id": "robert-tesztel"
+    },
+    {
+        "headerContent": [
+            {
+                "type": "text",
+                "writerName": "Horváth Péter"
+            },
+            {
+                "type": "image",
+                "writerImage": "horvath_peter"
+            },
+            {
+                "type": "text",
+                "role": "Kommunikációs igazgató"
+            },
+            {
+                "type": "text",
+                "subRole": "cégvezetés"
+            }
+        ],
+        "date": "2021-04-09",
+        "blogTitle": "ez-egy-teszt-főcím",
+        "blogContents": [
+            {
+                "type": "text",
+                "body": "Phasellus eleifend felis a elit tincidunt, id dignissim sapien ultricies. Vestibulum mattis dui vel nisl congue pulvinar. Pellentesque libero est, congue sit amet dui quis, gravida volutpat metus. Duis porttitor neque enim, nec malesuada magna blandit in. Nullam efficitur nulla vitae sapien ultricies, eu ornare metus aliquam. Mauris non nibh dignissim, porttitor tortor vitae, dapibus eros. Vestibulum tristique, leo id semper pharetra, nisi justo aliquam enim, sit amet sollicitudin purus purus non tellus. Cras commodo tellus et tempus blandit. Vivamus placerat ut nibh ut finibus. In vulputate vel urna ut dictum. In turpis turpis, laoreet et rutrum at, commodo sed diam. Mauris leo nulla, aliquam id tortor vitae, ultrices elementum mauris. Nullam finibus tellus in augue vehicula, eget mollis quam maximus. Sed convallis molestie enim, non convallis ligula faucibus a. Fusce vel rutrum diam, nec convallis ex."
+            },
+            {
+                "type": "image",
+                "imageName": "hero_877.jpg",
+                "imageAlt": "Ez a hero kép",
+                "isCarousel": true
+            },
+            {
+                "type": "text",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod velit eget elit porttitor vulputate. Proin lobortis lorem commodo sem pretium, id aliquam arcu sodales. Sed dignissim ipsum quis tortor laoreet pretium. Sed quis sapien non neque vulputate tincidunt. Ut dolor felis, consectetur a augue sit amet, iaculis dapibus turpis. Mauris porttitor eros id nibh ultricies suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec libero nulla, bibendum quis ante in, fringilla aliquet enim. Mauris commodo felis eget lacus maximus tristique. Phasellus pulvinar libero sed metus pulvinar, vestibulum viverra mi commodo. Praesent ut viverra dolor, at pellentesque metus. Sed mollis lectus quam, nec pharetra erat malesuada non. Etiam vel sem vitae mi ultricies aliquet at vel nisl. Donec sit amet lorem in erat auctor vestibulum tincidunt et elit. Fusce cursus, erat quis hendrerit commodo, enim enim blandit libero, nec maximus libero metus nec lacus. Cras in rutrum leo, aliquam vulputate lectus.\n\nNulla ultrices placerat est, at cursus mi egestas vitae. Praesent ac rhoncus massa. Phasellus eu massa dictum, tempus ante vel, dignissim metus. Duis dignissim mattis cursus. Praesent elit augue, ullamcorper blandit lorem eget, egestas aliquam diam. Donec et mi mauris. Proin tristique ut leo nec gravida."
+            }
+        ],
+        "id": "ez-egy-teszt-főcím"
+    },
+    {
+        "headerContent": [
+            {
+                "type": "text",
+                "writerName": "Ifj. Lengyel Tibor"
+            },
+            {
+                "type": "image",
+                "writerImage": "ifj_lengyel"
+            },
+            {
+                "type": "text",
+                "role": "Ügyvezető igazgató"
+            },
+            {
+                "type": "text",
+                "subRole": "cégvezetés"
+            }
+        ],
+        "date": "2021-04-09",
+        "blogTitle": "Egy újabb Főcím",
+        "blogContents": [
+            {
+                "type": "text",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod velit eget elit porttitor vulputate. Proin lobortis lorem commodo sem pretium, id aliquam arcu sodales. Sed dignissim ipsum quis tortor laoreet pretium. Sed quis sapien non neque vulputate tincidunt. Ut dolor felis, consectetur a augue sit amet, iaculis dapibus turpis. Mauris porttitor eros id nibh ultricies suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec libero nulla, bibendum quis ante in, fringilla aliquet enim. Mauris commodo felis eget lacus maximus tristique. Phasellus pulvinar libero sed metus pulvinar, vestibulum viverra mi commodo. Praesent ut viverra dolor, at pellentesque metus. Sed mollis lectus quam, nec pharetra erat malesuada non. Etiam vel sem vitae mi ultricies aliquet at vel nisl. Donec sit amet lorem in erat auctor vestibulum tincidunt et elit. Fusce cursus, erat quis hendrerit commodo, enim enim blandit libero, nec maximus libero metus nec lacus. Cras in rutrum leo, aliquam vulputate lectus."
+            },
+            {
+                "type": "text",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod velit eget elit porttitor vulputate. Proin lobortis lorem commodo sem pretium, id aliquam arcu sodales. Sed dignissim ipsum quis tortor laoreet pretium. Sed quis sapien non neque vulputate tincidunt. Ut dolor felis, consectetur a augue sit amet, iaculis dapibus turpis. Mauris porttitor eros id nibh ultricies suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec libero nulla, bibendum quis ante in, fringilla aliquet enim. Mauris commodo felis eget lacus maximus tristique. Phasellus pulvinar libero sed metus pulvinar, vestibulum viverra mi commodo. Praesent ut viverra dolor, at pellentesque metus. Sed mollis lectus quam, nec pharetra erat malesuada non. Etiam vel sem vitae mi ultricies aliquet at vel nisl. Donec sit amet lorem in erat auctor vestibulum tincidunt et elit. Fusce cursus, erat quis hendrerit commodo, enim enim blandit libero, nec maximus libero metus nec lacus. Cras in rutrum leo, aliquam vulputate lectus."
+            },
+            {
+                "type": "image",
+                "imageName": "hero_2_890x705.jpg",
+                "imageAlt": "Ez a hero kép",
+                "isCarousel": false
+            }
+        ],
+        "id": "egy-újabb-főcím"
+    },
+    {
+        "headerContent": [
+            {
+                "type": "text",
+                "writerName": "Ifj. Lengyel Tibor"
+            },
+            {
+                "type": "image",
+                "writerImage": "ifj_lengyel"
+            },
+            {
+                "type": "text",
+                "role": "Ügyvezető igazgató"
+            },
+            {
+                "type": "text",
+                "subRole": "cégvezetés"
+            }
+        ],
+        "date": "2021-04-12",
+        "blogTitle": "Blog főcíme ami még teszt",
+        "blogContents": [
+            {
+                "type": "text",
+                "body": "Fusce posuere odio id eros consectetur facilisis. Nam auctor, lorem sit amet pellentesque congue, purus ante cursus massa, id viverra diam magna nec diam. Pellentesque vestibulum velit quis orci vehicula, fringilla rutrum turpis pharetra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam eu laoreet ex, ac sagittis nibh. Vivamus tincidunt at leo in interdum. Donec turpis ligula, sollicitudin et mi vel, congue suscipit ligula. Nulla pharetra commodo mattis. Mauris ut rutrum felis, finibus feugiat enim. Donec in massa eu massa dignissim porttitor vel vitae urna. Nunc fermentum malesuada condimentum. Aliquam porta sit amet est non egestas. Donec nunc nisi, cursus eget pharetra quis, dignissim sit amet diam."
+            },
+            {
+                "type": "image",
+                "imageName": "tesztkep.png",
+                "imageAlt": "Ez az alt tag",
+                "isCarousel": true
+            },
+            {
+                "type": "image",
+                "imageName": "ujabbtesztkep.jpg",
+                "imageAlt": "Másik alt tag",
+                "isCarousel": ""
+            },
+            {
+                "type": "text",
+                "body": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec convallis metus vitae ipsum semper tincidunt. Aliquam eget pretium nibh. Aenean consectetur velit metus, vitae dapibus nunc consectetur vitae. Cras efficitur, nunc non commodo euismod, urna dui gravida augue, ut pretium erat est quis nisl. Quisque at augue in justo imperdiet mattis. Maecenas volutpat felis eleifend erat bibendum, id gravida tortor suscipit. Suspendisse vitae tortor vitae ipsum viverra facilisis eu vitae justo. Ut sodales augue mi, id porttitor justo tempor a. Etiam ac libero fringilla risus pellentesque pharetra. Duis lacinia congue ligula sed dapibus. Vestibulum congue molestie felis eu porttitor. Vivamus eu lobortis leo. Nulla eget diam tristique, pulvinar est cursus, consectetur elit.\nPraesent tincidunt, magna eu pharetra maximus, tellus ex feugiat neque, eu vestibulum orci ipsum et mauris. Sed ultrices, orci eget suscipit ultricies, mauris nibh porttitor nisi, a finibus nisi nulla pretium magna. Quisque lorem metus, facilisis nec dui vitae, viverra malesuada tellus. Maecenas eros sapien, fringilla nec eros ut, scelerisque condimentum neque. Curabitur non vestibulum orci, in ullamcorper elit. Proin eu facilisis dui. Sed eget nisi lorem."
+            }
+        ],
+        "id": "blog-főcíme-ami-még-teszt"
+    },
+    {
+        "headerContent": [
+            {
+                "type": "text",
+                "writerName": "e-Jogsegéd"
+            },
+            {
+                "type": "image",
+                "writerImage": "ejogseged"
+            },
+            {
+                "type": "text",
+                "role": "hivatalos"
+            },
+            {
+                "type": "text",
+                "subRole": "cégvezetés"
+            }
+        ],
+        "date": "2021-04-12",
+        "blogTitle": "olyan jó ez a blóóóóg",
+        "blogContents": [
+            {
+                "type": "text",
+                "body": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec convallis metus vitae ipsum semper tincidunt. Aliquam eget pretium nibh. Aenean consectetur velit metus, vitae dapibus nunc consectetur vitae. Cras efficitur, nunc non commodo euismod, urna dui gravida augue, ut pretium erat est quis nisl. Quisque at augue in justo imperdiet mattis. Maecenas volutpat felis eleifend erat bibendum, id gravida tortor suscipit. Suspendisse vitae tortor vitae ipsum viverra facilisis eu vitae justo. Ut sodales augue mi, id porttitor justo tempor a. Etiam ac libero fringilla risus pellentesque pharetra. Duis lacinia congue ligula sed dapibus. Vestibulum congue molestie felis eu porttitor. Vivamus eu lobortis leo. Nulla eget diam tristique, pulvinar est cursus, consectetur elit."
+            },
+            {
+                "type": "text",
+                "body": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec convallis metus vitae ipsum semper tincidunt. Aliquam eget pretium nibh. Aenean consectetur velit metus, vitae dapibus nunc consectetur vitae. Cras efficitur, nunc non commodo euismod, urna dui gravida augue, ut pretium erat est quis nisl. Quisque at augue in justo imperdiet mattis. Maecenas volutpat felis eleifend erat bibendum, id gravida tortor suscipit. Suspendisse vitae tortor vitae ipsum viverra facilisis eu vitae justo. Ut sodales augue mi, id porttitor justo tempor a. Etiam ac libero fringilla risus pellentesque pharetra. Duis lacinia congue ligula sed dapibus. Vestibulum congue molestie felis eu porttitor. Vivamus eu lobortis leo. Nulla eget diam tristique, pulvinar est cursus, consectetur elit."
+            },
+            {
+                "type": "image",
+                "imageName": "hero_877.jpg",
+                "imageAlt": "Ez egy menő kép igen!",
+                "isCarousel": true
+            },
+            {
+                "type": "text",
+                "body": "Sed molestie mauris sit amet tincidunt vestibulum. Etiam nec arcu purus. Duis leo ligula, maximus sed congue a, consectetur ut dolor. Quisque fermentum, nunc non bibendum congue, lacus urna dictum arcu, vel faucibus orci ante ac odio. Nam sit amet quam quis nisi maximus lacinia. Nullam et libero vel leo tincidunt dictum. Vestibulum efficitur in lorem quis consequat. Curabitur accumsan et nisi porttitor venenatis. Pellentesque convallis enim tortor. Duis bibendum aliquam lectus, sit amet consectetur est lobortis at. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur id justo ac metus rhoncus laoreet et eleifend urna. Fusce ullamcorper velit vel justo egestas, vitae sodales libero maximus."
+            },
+            {
+                "type": "image",
+                "imageName": "tesztkep.jpg",
+                "imageAlt": "menő manó kép",
+                "isCarousel": false
+            }
+        ],
+        "id": "olyan-jó-ez-a-blóóóóg"
+    }
+]
